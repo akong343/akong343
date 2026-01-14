@@ -1,4 +1,6 @@
 ## Hi there 👋
+i am a student. 
+Pronouns: She/Her/Hers
 
 <!--
 **akong343/akong343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
